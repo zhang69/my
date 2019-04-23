@@ -1,1 +1,5 @@
-test
+zuul: 
+  routes: 
+    routeTest: 
+      path: /routeTest 
+      url: http://www.163.com
