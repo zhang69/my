@@ -1,5 +1,5 @@
 zuul: 
   routes: 
     routeTest: 
-      path: /routeTest 
+      path: /routeTest1
       url: http://www.163.com
